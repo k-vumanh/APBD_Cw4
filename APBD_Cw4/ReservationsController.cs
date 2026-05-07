@@ -3,7 +3,7 @@
 namespace APBD_Cw4;
 
 [ApiController]
-[Route("[api/controller]")]
+[Route("api/[controller]")]
 public class ReservationsController : ControllerBase
 {
 
